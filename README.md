@@ -1,20 +1,16 @@
 <h1 align="center">Hi there 👋, I'm w-leee</h1>
 <h3 align="center">AI Algorithm Deployment & C++ System Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=w-leee&label=Profile%20views&color=0e75b6&style=flat" alt="w-leee" />
-</p>
-
 ---
 
 ### 🚀 关于我 / About Me
 - 🔭 专注于 **计算机视觉算法 (CV)** 与 **边缘端高性能推理部署**。
 - ⚡ 热衷于死磕底层架构：手写 NMS/DFL 解码，剥离 Python 依赖，压榨极限算力。
-- 🛠️ 正在全栈化进阶，喜欢折腾双系统开发环境与编译工具链。
+- 🛠️ 追求极致的工程化基建，喜欢折腾双系统开发环境与底层编译工具链。
 
 ---
 
-### 💻 我的双系统开发环境 / Dev Environment
+### 💻 双系统开发环境 / Dev Environment
 
 > 🪟 **Windows 原生层 (应用与服务)**
 > ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,7 +25,7 @@
 > ![Docker](https://img.shields.io/badge/Docker-29.8-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <details>
-<summary><b>👉 点击查看完整环境基准档案</b></summary>
+<summary><b>👉 点击查看完整环境基准档案 (Benchmark)</b></summary>
 <br>
 
 **🪟 Windows Side:**
@@ -59,15 +55,6 @@
 *   **技术栈**: `C++` `Python` `TensorRT` `CUDA` `OpenCV`
 
 ---
-
-### 📊 GitHub 统计 / Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w-leee&show_icons=true&theme=tokyonight&hide_border=true" alt="w-leee's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-leee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 <p align="center">
   <i>"Talk is cheap. Show me the code." —— Linus Torvalds</i>
