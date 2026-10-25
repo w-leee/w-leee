@@ -47,7 +47,3 @@
 *   **技术栈**: `C++` `Python` `TensorRT` `CUDA` `OpenCV`
 
 ---
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." —— Linus Torvalds</i>
-</p>
