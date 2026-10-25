@@ -33,7 +33,7 @@
 *   **Java**: `D:\Environment\jdk-17` + Maven 独立仓库配置
 *   **C/C++**: MinGW GCC 11.2 + CMake 3.27 + GDB 11.2
 *   **Node.js**: 淘宝镜像源, 全局包路径重定向至 D 盘
-*   **基建**: Git / Docker Desktop / 本地 MySQL 与 Redis (已设为 Manual 停止，避免端口冲突)
+*   **基建**: Git / Docker Desktop / 本地 MySQL 与 Redis
 
 **🐧 WSL2 Linux Side:**
 *   **系统**: Ubuntu 26.04, 独立 1TB 虚拟磁盘
