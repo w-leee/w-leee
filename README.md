@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm w-leee</h1>
 
 > **AI Algorithm Deployment & C++ Systems Engineer**
-> 
-> 专注于计算机视觉算法 (CV) 与边缘端高性能推理部署。致力于底层性能优化，熟练手写 NMS/DFL 解码，实现零 Python 依赖的 C++ 端到端推理。具备扎实的工程化能力，擅长跨平台 (Windows/WSL2) 工具链与底层基建搭建
 
 ### 💻 双系统开发环境 / Dev Environment
 
