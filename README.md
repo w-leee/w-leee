@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm w-leee</h1>
+<p align="center"><b>AI Algorithm Deployment & C++ Systems Engineer</b></p>
 
-> **AI Algorithm Deployment & C++ Systems Engineer**
-
+---
 ### 💻 双系统开发环境 / Dev Environment
 
 > 🪟 **Windows 原生层 (应用与服务)**
