@@ -13,7 +13,7 @@
 > ![Docker](https://img.shields.io/badge/Docker-29.8-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <details>
-<summary><b>👉 点击查看完整环境基准档案 (</b></summary>
+<summary><b>👉 点击查看完整环境基准档案 </b></summary>
 
 **🪟 Windows Side:**
 *   **Python**: `D:\python` (全局唯一环境), 中科大镜像源, 核心依赖包含 FastAPI/Pandas 等
