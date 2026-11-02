@@ -37,13 +37,3 @@
 </details>
 
 ---
-
-### 🔥 旗舰项目 / Featured Project
-
-#### 🦾 [YOLOv8 TensorRT 工业缺陷检测](https://github.com/w-leee/yolo-trt-defect-detection)
-基于 YOLOv8 + ONNX + TensorRT 的混凝土裂缝实时检测与边缘推理优化。
-*   **性能表现**: C++ 端到端耗时 **4.45 ms**，峰值 **224 FPS** (RTX 3050 Laptop)。
-*   **核心技术**: FP16/INT8 量化、手写 DFL 解码与 NMS、C++ 端零 Python 依赖。
-*   **技术栈**: `C++` `Python` `TensorRT` `CUDA` `OpenCV`
-
----
