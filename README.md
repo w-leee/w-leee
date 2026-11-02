@@ -5,12 +5,13 @@
 > ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > ![C++](https://img.shields.io/badge/C++-GCC_11.2-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 > ![Node.js](https://img.shields.io/badge/Node.js-v22-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-29.8-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 >  **WSL2 Linux**
 > ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 > ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white)
 > ![TensorRT](https://img.shields.io/badge/TensorRT-10.7-76B900?style=flat-square&logo=nvidia&logoColor=white)
-> ![Docker](https://img.shields.io/badge/Docker-29.8-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 <details>
 <summary><b>👉 点击查看完整环境基准档案 </b></summary>
