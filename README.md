@@ -1,19 +1,19 @@
-### 💻 双系统开发环境 / Dev Environment
+### 💻 双系统开发环境
 
-> 🪟 **Windows**
+>  **Windows**
 > ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > ![C++](https://img.shields.io/badge/C++-GCC_11.2-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 > ![Node.js](https://img.shields.io/badge/Node.js-v22-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-> 🐧 **WSL2 Linux**
+>  **WSL2 Linux**
 > ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 > ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white)
 > ![TensorRT](https://img.shields.io/badge/TensorRT-10.7-76B900?style=flat-square&logo=nvidia&logoColor=white)
 > ![Docker](https://img.shields.io/badge/Docker-29.8-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <details>
-<summary><b>👉 点击查看完整环境基准档案 (Benchmark)</b></summary>
+<summary><b>👉 点击查看完整环境基准档案 (</b></summary>
 
 **🪟 Windows Side:**
 *   **Python**: `D:\python` (全局唯一环境), 中科大镜像源, 核心依赖包含 FastAPI/Pandas 等
