@@ -9,6 +9,7 @@
 
 >  **WSL2 Linux**
 > ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-GCC_15.2-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 > ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white)
 > ![TensorRT](https://img.shields.io/badge/TensorRT-10.7-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
