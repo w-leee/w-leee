@@ -25,6 +25,7 @@
 **🐧 WSL2 Linux Side:**
 *   **系统**: Ubuntu 26.04, 独立 1TB 虚拟磁盘
 *   **工具链**: GCC 15.2 + CMake 4.2 + GDB 17.1
+*   **CUDA Toolkit**：12.6（`nvcc` 12.6.77）
 *   **AI 生态**: TensorRT 10.7 + OpenCV 4.10.0
 *   **硬件**: RTX 3050 Laptop (CUDA 状态正常)
 *   **依赖配置**: TensorRT C++ SDK 采用项目内本地依赖 (third_party/)
