@@ -1,7 +1,3 @@
-<h1 align="center">Hi there 👋, I'm w-leee</h1>
-<p align="center"><b>AI Algorithm Deployment & C++ Systems Engineer</b></p>
-
----
 ### 💻 双系统开发环境 / Dev Environment
 
 > 🪟 **Windows 原生层 (应用与服务)**
@@ -18,7 +14,6 @@
 
 <details>
 <summary><b>👉 点击查看完整环境基准档案 (Benchmark)</b></summary>
-<br>
 
 **🪟 Windows Side:**
 *   **Python**: `D:\python` (全局唯一环境), 中科大镜像源, 核心依赖包含 FastAPI/Pandas 等
