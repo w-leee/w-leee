@@ -13,24 +13,27 @@
 > ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white)
 > ![TensorRT](https://img.shields.io/badge/TensorRT-10.7-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-
 <details>
-<summary><b>👉 点击查看完整环境基准档案 </b></summary>
+<summary><b>👉 点击查看完整环境基准档案</b></summary>
 
 **🪟 Windows Side:**
+
 *   **Python**: `D:\python` (全局唯一环境), 中科大镜像源, 核心依赖包含 FastAPI/Pandas 等
 *   **Java**: `D:\Environment\jdk-17` + Maven 独立仓库配置
 *   **C/C++**: MinGW GCC 11.2 + CMake 3.27 + GDB 11.2
 *   **Node.js**: 淘宝镜像源, 全局包路径重定向至 D 盘
-*   **基建**: Git / Docker Desktop / 本地 MySQL 与 Redis
+*   **Docker**: Docker Desktop（WSL2 后端集成）
+*   **基建**: Git / 本地 MySQL 与 Redis
 
 **🐧 WSL2 Linux Side:**
+
 *   **系统**: Ubuntu 26.04, 独立 1TB 虚拟磁盘
-*   **工具链**: GCC 15.2 + CMake 4.2 + GDB 17.1
-*   **CUDA Toolkit**：12.6（`nvcc` 12.6.77）
+*   **C/C++ 工具链**: GCC 15.2 + CMake 4.2 + GDB 17.1
+*   **CUDA Toolkit**: 12.6（`nvcc` 12.6.77）
 *   **AI 生态**: TensorRT 10.7 + OpenCV 4.10.0
 *   **硬件**: RTX 3050 Laptop (CUDA 状态正常)
-*   **依赖配置**: TensorRT C++ SDK 采用项目内本地依赖 (third_party/)
+*   **依赖配置**: TensorRT C++ SDK 采用项目内本地依赖 (`third_party/`)
+*   **容器运行时**: 复用 Windows 侧 Docker Desktop（WSL2 集成），无独立 Docker Engine
 
 </details>
 
