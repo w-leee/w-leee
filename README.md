@@ -25,7 +25,7 @@ Windows:
 - Docker: Docker Desktop（WSL2 后端集成）
 - 基建: Git / 本地 MySQL 与 Redis
 
-WSL2 Linux (纯部署端):
+WSL2 Linux :
 - 系统: Ubuntu 26.04, 独立 1TB 虚拟磁盘
 - C/C++ 工具链: 系统级 GCC 15.2 + CMake 4.2 + GDB 17.1
 - CUDA 编译器: 12.6（nvcc 12.6.77）
